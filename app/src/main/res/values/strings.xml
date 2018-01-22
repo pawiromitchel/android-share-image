@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="select_image">Select Your Image</string>
+    <string name="send">Send Image</string>
+</resources>
